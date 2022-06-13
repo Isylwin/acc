@@ -4,7 +4,27 @@
         {
             "type": "web_raw",
             "dest": "controller",
-            "origin": "https://pastebin.com/raw/Dzrv9DbK"
+            "origin": "https://raw.githubusercontent.com/Isylwin/acc/main/controller.lua"
+        },
+        {
+            "type": "web_raw",
+            "dest": "common",
+            "origin": "https://raw.githubusercontent.com/Isylwin/acc/main/common.lua"
+        },
+        {
+            "type": "web_raw",
+            "dest": "editor",
+            "origin": "https://raw.githubusercontent.com/Isylwin/acc/main/editor.lua"
+        },
+        {
+            "type": "web_raw",
+            "dest": "profiling",
+            "origin": "https://raw.githubusercontent.com/Isylwin/acc/main/profiling.lua"
+        },
+        {
+            "type": "web_raw",
+            "dest": "backends/refined_storage.lua",
+            "origin": "https://raw.githubusercontent.com/Isylwin/acc/main/backends/refined_storage.lua"
         }
     ]
 }
