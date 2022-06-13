@@ -10,7 +10,7 @@ local enableUpdate = true
 
 local common = require("common")
 local profiling = require("profiling")
-local backendInitFn = require("backends:refined_storage")
+local backendInitFn = require("backends.refined_storage")
 
 local readItemRequests = common.readItems
 
