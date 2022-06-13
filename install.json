@@ -1,0 +1,10 @@
+{
+    "version": "0.0.1",
+    "files": [
+        {
+            "type": "web_raw",
+            "dest": "controller",
+            "origin": "https://pastebin.com/raw/Dzrv9DbK"
+        }
+    ]
+}
